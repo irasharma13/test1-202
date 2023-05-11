@@ -1,18 +1,22 @@
 # team-project-cloudnine
 
-Team Members
+# Team Members
 
-Contributions:
+- Ira Sharma
+- Rahul
+- Faizan
 
-Tools and Technology Used
+# Tools and Technology Used
 
-XP Core Values Implemented
+Frontend 
+# Contributions
+# XP Core Values Implemented
 
-Tasks
-Scrum Meetings
 
- Design Decisions
+# Scrum Meetings
 
-Feature Set of project
+# Design Decisions
 
-UI Wireframes
+# Feature Set of project
+
+# UI Wireframes
